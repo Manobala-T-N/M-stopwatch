@@ -2,63 +2,91 @@
 
 A modern fullscreen stopwatch built with HTML, CSS, and JavaScript.
 
-## Features
-
-* Fullscreen Mode
-* Dark / Light Theme
-* Modern Glassmorphism UI
-* Responsive Design
-* Hours, Minutes, and Seconds Display
-* Start, Pause, and Reset Controls
-* Keyboard Shortcut Support
-* Mobile Friendly
-* Works on All Modern Browsers
-
-## Live Demo
+## 🌐 Live Demo
 
 https://manobala-t-n.github.io/M-stopwatch/
 
-## Technologies Used
+## ✨ Features
+
+* Fullscreen Mode
+* Dark Mode / Light Mode
+* Modern Gradient UI
+* Glassmorphism Controls
+* Responsive Design
+* Hours, Minutes & Seconds Display
+* Start, Pause & Reset Controls
+* Keyboard Shortcut Ready
+* Mobile Friendly
+
+---
+
+## 📸 Screenshots
+
+### Dark Mode
+
+<p align="center">
+  <img src="images/dark-mode.png" width="900">
+</p>
+
+### Light Mode
+
+<p align="center">
+  <img src="images/light-mode.png" width="900">
+</p>
+
+---
+
+## 🚀 Technologies Used
 
 * HTML5
 * CSS3
 * JavaScript
 
-## How to Run Locally
+---
 
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Manobala-T-N/M-stopwatch.git
-```
-
-2. Open the project folder.
-
-3. Open `index.html` in your browser.
-
-## Project Structure
+## 📂 Project Structure
 
 ```text
 M-stopwatch/
 ├── index.html
 ├── style.css
 ├── script.js
-└── README.md
+├── README.md
+└── images/
+    ├── dark-mode.png
+    └── light-mode.png
 ```
-
-## Future Improvements
-
-* Lap Timer
-* PWA Support
-* Export Lap History
-* Multiple Themes
-* Animated Background Effects
-* Offline Support
-
-## Author
-
-Manobala T.N.
 
 ---
 
-Made with ❤️ using HTML, CSS, and JavaScript.
+## ▶️ Run Locally
+
+```bash
+git clone https://github.com/Manobala-T-N/M-stopwatch.git
+cd M-stopwatch
+```
+
+Open `index.html` in your browser.
+
+---
+
+## 🎯 Future Improvements
+
+* Lap Timer
+* PWA Support
+* Install as Mobile App
+* Animated Background Effects
+* Export Lap History
+* Additional Themes
+
+---
+
+## 👨‍💻 Author
+
+**Manobala T.N**
+
+GitHub: https://github.com/Manobala-T-N
+
+---
+
+⭐ If you like this project, consider giving it a star.
